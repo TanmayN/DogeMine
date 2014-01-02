@@ -54,5 +54,5 @@ echo "screen -r"
 
 echo ""
 echo "To see the log of this script, look at doge.log"
-echo "(cat doge.log) if you didn't know :P)"
+echo "The command is: cat doge.log"
 echo "Thanks for using my script!"
