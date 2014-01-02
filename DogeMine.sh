@@ -13,7 +13,7 @@ if [ $USER != 'root' ]; then
 fi
 
 echo "Welcome to the Dogecoin mining autosetup script by narangutang on Reddit."
-echo "http://reddit.com/r/narangutang"
+echo "http://reddit.com/u/narangutang"
 echo "If this script helped you, be sure to post on the thread :P"
 echo ""
 
