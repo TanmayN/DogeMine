@@ -4,7 +4,7 @@
 # Use on VPSs or Dedicated Servers
 # Caution: Many providers do not allow cryptocurrency, check with your
 # provider's TOS/AUP before mining.
-# Meant for use on Debian based distrobutions
+# Meant for use on Debian based distributions
 
 
 if [ $USER != 'root' ]; then
